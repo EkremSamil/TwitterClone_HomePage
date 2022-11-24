@@ -1,16 +1,4 @@
-# twitterclone
+# Twitter Home Page Clone
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![twitter_clone](https://user-images.githubusercontent.com/63926513/203849129-2ff0d9f0-9b3c-4451-bedd-3e91a379ed20.png)
